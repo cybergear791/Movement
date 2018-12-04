@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movement", "Assembly-CSharp.csproj", "{250BE2A9-3B4B-C1B5-9916-2B285EE5634D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{250BE2A9-3B4B-C1B5-9916-2B285EE5634D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
