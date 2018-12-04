@@ -1,1 +1,1 @@
-A Unity game which utilizes the Nintendo Switched controllers.
+A Unity game which utilizes the Nintendo Switch controllers.
